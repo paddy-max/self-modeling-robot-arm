@@ -1,0 +1,11 @@
+{
+  "name": "baseline",
+  "seeds": 3,
+  "damaged_l2": 0.4,
+  "pool": 400,
+  "per_round": 5,
+  "rounds": 16,
+  "started": "2026-10-22T22:30:30",
+  "python": "3.10.11",
+  "numpy": "2.2.6"
+}
